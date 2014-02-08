@@ -1,0 +1,12 @@
+{
+  "hyone_zsh": {
+    "user":  "vagrant",
+    "group": "vagrant",
+    "version": "5.0.5"
+  },
+
+  "run_list": [
+    "recipe[hyone_zsh::default]",
+    "recipe[hyone_zsh::from_source]"
+  ]
+}
