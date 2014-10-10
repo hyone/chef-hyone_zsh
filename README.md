@@ -9,7 +9,7 @@
   "hyone_zsh": {
     "user": "hoge",
     "group": "hoge",
-    "version": "5.0.5"
+    "version": "5.0.7"
   },
 
   "run_list": [

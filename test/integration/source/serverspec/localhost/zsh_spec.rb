@@ -2,7 +2,7 @@ require 'spec_helper'
 
 
 _home    = '/home/hoge'
-_version = '5.0.5'
+_version = '5.0.7'
 _zsh       = ::File.join(_home, "local/apps/zsh-#{_version}/bin/zsh")
 _zsh_alias = ::File.join(_home, 'local/bin/zsh')
 
