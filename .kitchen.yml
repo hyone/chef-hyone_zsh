@@ -26,9 +26,9 @@ suites:
       hyone_zsh:
         user:  hoge
         group: hoge
-  - name: from_source
+  - name: source
     run_list:
-      - recipe[hyone_zsh-test::from_source]
+      - recipe[hyone_zsh-test::source]
     attributes:
       hyone_zsh:
         user:  hoge
